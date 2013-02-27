@@ -10,6 +10,7 @@ First, create a `config.json` file based on `example_config.json` that looks lik
 ```
 {
     "apikey": "my-api-key",
+    "portalId": "my-portal-id",
     "sender": "me@example.com",
     "recipients": ["you@example.com"],
     "subject": "Test email sent via MailGunner"
