@@ -1,5 +1,7 @@
 {
-    "apikey": "my-api-key",
+    "apikey": "",
+    "portalId": "",
+    "appId": "20207",
     "sender": "me@example.com",
     "recipients": ["you@example.com"],
     "subject": "Test email sent via MailGunner"
